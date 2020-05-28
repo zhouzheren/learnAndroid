@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <resources>
+        <style name="CustomeActionBarTheme"
+            parent="android:style/Theme.holo.Light.DarkActionBar">
+            <itme name="android:actionBarStyle">@style/MyActionBar</itme>
+        </style>
+
+        <style name="MyActionBar"
+            parnt="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+            <itme name="android:background">@drawable/actionbar_background</itme>
+        </style>
+    </resources>
+</menu>
