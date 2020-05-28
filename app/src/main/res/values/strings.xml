@@ -3,4 +3,5 @@
     <string name="edit_message">输入信息</string>
     <string name="button_send">发送</string>
     <string name="textview">文本</string>
+    <string name="chooser_title">分享内容</string>
 </resources>
